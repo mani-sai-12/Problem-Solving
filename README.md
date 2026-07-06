@@ -8,11 +8,13 @@
 | [1480-running-sum-of-1d-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/1480-running-sum-of-1d-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mani-sai-12/Problem-Solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mani-sai-12/Problem-Solving/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mani-sai-12/Problem-Solving/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mani-sai-12/Problem-Solving/tree/master/0001-two-sum) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3945-digit-frequency-score](https://github.com/mani-sai-12/Problem-Solving/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
@@ -32,4 +34,12 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/1480-running-sum-of-1d-array) |
+## Sliding Window
+|  |
+| ------- |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 <!---LeetCode Topics End-->
