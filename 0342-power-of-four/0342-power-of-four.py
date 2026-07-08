@@ -1,7 +1,6 @@
 class Solution:
     def isPowerOfFour(self, n: int) -> bool:
-        for x in range(31):
-            if n==pow(4,x):
-                return True
-        return False
+        if n<=0:
+            return False
+        return math.log(n,4).is_integer()
             
