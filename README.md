@@ -20,12 +20,14 @@
 | ------- |
 | [0001-two-sum](https://github.com/mani-sai-12/Problem-Solving/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/mani-sai-12/Problem-Solving/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/mani-sai-12/Problem-Solving/tree/master/0242-valid-anagram) |
 | [1512-number-of-good-pairs](https://github.com/mani-sai-12/Problem-Solving/tree/master/1512-number-of-good-pairs) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3945-digit-frequency-score](https://github.com/mani-sai-12/Problem-Solving/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/mani-sai-12/Problem-Solving/tree/master/0242-valid-anagram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mani-sai-12/Problem-Solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Math
 |  |
@@ -76,4 +78,5 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/mani-sai-12/Problem-Solving/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/mani-sai-12/Problem-Solving/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
