@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/mani-sai-12/Problem-Solving/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/mani-sai-12/Problem-Solving/tree/master/0217-contains-duplicate) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mani-sai-12/Problem-Solving/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/mani-sai-12/Problem-Solving/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/1929-concatenation-of-array) |
