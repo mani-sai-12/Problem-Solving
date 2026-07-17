@@ -31,6 +31,7 @@
 | [0242-valid-anagram](https://github.com/mani-sai-12/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/mani-sai-12/Problem-Solving/tree/master/0392-is-subsequence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mani-sai-12/Problem-Solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/mani-sai-12/Problem-Solving/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -87,8 +88,13 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/mani-sai-12/Problem-Solving/tree/master/0392-is-subsequence) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/mani-sai-12/Problem-Solving/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/mani-sai-12/Problem-Solving/tree/master/0392-is-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/mani-sai-12/Problem-Solving/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 <!---LeetCode Topics End-->
