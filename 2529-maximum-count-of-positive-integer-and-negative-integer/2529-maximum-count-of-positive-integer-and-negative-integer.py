@@ -4,6 +4,7 @@ class Solution:
         for i in range(len(nums)):
             if nums[i]>0:
                 p_c+=1
+                continue
             elif nums[i]<0:
                 n_c+=1
         return max(p_c,n_c)
