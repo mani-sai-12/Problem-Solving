@@ -49,6 +49,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/mani-sai-12/Problem-Solving/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/mani-sai-12/Problem-Solving/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/mani-sai-12/Problem-Solving/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/mani-sai-12/Problem-Solving/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/mani-sai-12/Problem-Solving/tree/master/0371-sum-of-two-integers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mani-sai-12/Problem-Solving/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
