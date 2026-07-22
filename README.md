@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mani-sai-12/Problem-Solving/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/mani-sai-12/Problem-Solving/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/mani-sai-12/Problem-Solving/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/mani-sai-12/Problem-Solving/tree/master/0371-sum-of-two-integers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mani-sai-12/Problem-Solving/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -95,6 +96,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/mani-sai-12/Problem-Solving/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/1929-concatenation-of-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/mani-sai-12/Problem-Solving/tree/master/3925-concatenate-array-with-reverse) |
 ## Sorting
@@ -121,6 +123,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/mani-sai-12/Problem-Solving/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
