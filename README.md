@@ -9,6 +9,7 @@
 | [0217-contains-duplicate](https://github.com/mani-sai-12/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/mani-sai-12/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/mani-sai-12/Problem-Solving/tree/master/0485-max-consecutive-ones) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/mani-sai-12/Problem-Solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mani-sai-12/Problem-Solving/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/1480-running-sum-of-1d-array) |
@@ -58,6 +59,7 @@
 | [0371-sum-of-two-integers](https://github.com/mani-sai-12/Problem-Solving/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/mani-sai-12/Problem-Solving/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mani-sai-12/Problem-Solving/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/mani-sai-12/Problem-Solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mani-sai-12/Problem-Solving/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/mani-sai-12/Problem-Solving/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
