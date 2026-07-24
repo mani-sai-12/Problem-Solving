@@ -61,6 +61,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mani-sai-12/Problem-Solving/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mani-sai-12/Problem-Solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mani-sai-12/Problem-Solving/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/mani-sai-12/Problem-Solving/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2469-convert-the-temperature](https://github.com/mani-sai-12/Problem-Solving/tree/master/2469-convert-the-temperature) |
@@ -93,6 +94,7 @@
 | [0342-power-of-four](https://github.com/mani-sai-12/Problem-Solving/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/mani-sai-12/Problem-Solving/tree/master/0371-sum-of-two-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mani-sai-12/Problem-Solving/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/1486-xor-operation-in-an-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Recursion
 |  |
