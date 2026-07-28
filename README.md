@@ -9,6 +9,7 @@
 | [0217-contains-duplicate](https://github.com/mani-sai-12/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/mani-sai-12/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/mani-sai-12/Problem-Solving/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mani-sai-12/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mani-sai-12/Problem-Solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mani-sai-12/Problem-Solving/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -59,6 +60,7 @@
 | [0342-power-of-four](https://github.com/mani-sai-12/Problem-Solving/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/mani-sai-12/Problem-Solving/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/mani-sai-12/Problem-Solving/tree/master/0412-fizz-buzz) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mani-sai-12/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mani-sai-12/Problem-Solving/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mani-sai-12/Problem-Solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mani-sai-12/Problem-Solving/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -123,6 +125,7 @@
 | [0217-contains-duplicate](https://github.com/mani-sai-12/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mani-sai-12/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/mani-sai-12/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mani-sai-12/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/mani-sai-12/Problem-Solving/tree/master/3536-maximum-product-of-two-digits) |
