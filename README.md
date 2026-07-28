@@ -49,6 +49,7 @@
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/mani-sai-12/Problem-Solving/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2678-number-of-senior-citizens](https://github.com/mani-sai-12/Problem-Solving/tree/master/2678-number-of-senior-citizens) |
 | [3110-score-of-a-string](https://github.com/mani-sai-12/Problem-Solving/tree/master/3110-score-of-a-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 | [0242-valid-anagram](https://github.com/mani-sai-12/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/mani-sai-12/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/mani-sai-12/Problem-Solving/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
@@ -149,4 +151,8 @@
 | [0035-search-insert-position](https://github.com/mani-sai-12/Problem-Solving/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/mani-sai-12/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mani-sai-12/Problem-Solving/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
