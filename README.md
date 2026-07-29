@@ -43,6 +43,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/mani-sai-12/Problem-Solving/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/mani-sai-12/Problem-Solving/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/mani-sai-12/Problem-Solving/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/mani-sai-12/Problem-Solving/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/mani-sai-12/Problem-Solving/tree/master/0412-fizz-buzz) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mani-sai-12/Problem-Solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -132,6 +133,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/mani-sai-12/Problem-Solving/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/mani-sai-12/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/mani-sai-12/Problem-Solving/tree/master/0392-is-subsequence) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/mani-sai-12/Problem-Solving/tree/master/2486-append-characters-to-string-to-make-subsequence) |
