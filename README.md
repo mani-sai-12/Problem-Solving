@@ -51,6 +51,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mani-sai-12/Problem-Solving/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/mani-sai-12/Problem-Solving/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2678-number-of-senior-citizens](https://github.com/mani-sai-12/Problem-Solving/tree/master/2678-number-of-senior-citizens) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/mani-sai-12/Problem-Solving/tree/master/3110-score-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
@@ -74,6 +75,7 @@
 | [2469-convert-the-temperature](https://github.com/mani-sai-12/Problem-Solving/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/mani-sai-12/Problem-Solving/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/mani-sai-12/Problem-Solving/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mani-sai-12/Problem-Solving/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mani-sai-12/Problem-Solving/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mani-sai-12/Problem-Solving/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -148,6 +150,7 @@
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/mani-sai-12/Problem-Solving/tree/master/1903-largest-odd-number-in-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/mani-sai-12/Problem-Solving/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Number Theory
 |  |
 | ------- |
