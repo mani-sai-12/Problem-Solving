@@ -1,6 +1,7 @@
 class Solution:
     def isMonotonic(self, nums: List[int]) -> bool:
-        if nums==sorted(nums) or nums==sorted(nums)[::-1]:
+        a=sorted(nums)
+        if nums==a or nums==a[::-1]:
             return True
         else:
             return False
