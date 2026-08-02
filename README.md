@@ -11,6 +11,7 @@
 | [0485-max-consecutive-ones](https://github.com/mani-sai-12/Problem-Solving/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mani-sai-12/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/mani-sai-12/Problem-Solving/tree/master/0877-stone-game) |
+| [0896-monotonic-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/0896-monotonic-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mani-sai-12/Problem-Solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mani-sai-12/Problem-Solving/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
