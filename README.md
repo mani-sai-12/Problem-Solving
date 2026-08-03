@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mani-sai-12/Problem-Solving/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/mani-sai-12/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/mani-sai-12/Problem-Solving/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/mani-sai-12/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/mani-sai-12/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
@@ -150,6 +151,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mani-sai-12/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0344-reverse-string](https://github.com/mani-sai-12/Problem-Solving/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/mani-sai-12/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/mani-sai-12/Problem-Solving/tree/master/0392-is-subsequence) |
@@ -162,6 +164,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mani-sai-12/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [1903-largest-odd-number-in-string](https://github.com/mani-sai-12/Problem-Solving/tree/master/1903-largest-odd-number-in-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/mani-sai-12/Problem-Solving/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
