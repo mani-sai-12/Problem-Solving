@@ -3,7 +3,7 @@ class Solution:
         ans=[]
         Min=min(nums)
         Max=max(nums)
-        for i in range(Min,Max):
+        for i in range(Min+1,Max):
             if i not in nums:
                 ans.append(i)
         return ans
