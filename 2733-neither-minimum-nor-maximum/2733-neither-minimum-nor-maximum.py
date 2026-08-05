@@ -6,5 +6,5 @@ class Solution:
         # Min=min(nums)
         # return nums[nums.index(Min)+1]
         for i in range(len(nums)):
-            if nums[i]>min(nums) and nums[i]<max(nums):
+            if nums[i]!=min(nums) and nums[i]!=max(nums):
                 return nums[i]
