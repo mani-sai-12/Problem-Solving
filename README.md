@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/mani-sai-12/Problem-Solving/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/mani-sai-12/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/mani-sai-12/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/mani-sai-12/Problem-Solving/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mani-sai-12/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/mani-sai-12/Problem-Solving/tree/master/0877-stone-game) |
@@ -43,6 +44,7 @@
 | [0383-ransom-note](https://github.com/mani-sai-12/Problem-Solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mani-sai-12/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/mani-sai-12/Problem-Solving/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/mani-sai-12/Problem-Solving/tree/master/1512-number-of-good-pairs) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3731-find-missing-elements](https://github.com/mani-sai-12/Problem-Solving/tree/master/3731-find-missing-elements) |
