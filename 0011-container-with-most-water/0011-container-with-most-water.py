@@ -1,7 +1,6 @@
 class Solution:
     def maxArea(self, height: List[int]) -> int:
-        max_area=0
-        l=0
+        max_area,l=0,0
         r=len(height)-1
         while(l<r):
             h=min(height[l],height[r])
