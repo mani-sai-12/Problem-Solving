@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/mani-sai-12/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/mani-sai-12/Problem-Solving/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/mani-sai-12/Problem-Solving/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/mani-sai-12/Problem-Solving/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/mani-sai-12/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/mani-sai-12/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -153,6 +154,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/mani-sai-12/Problem-Solving/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/mani-sai-12/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mani-sai-12/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/mani-sai-12/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
@@ -168,6 +170,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mani-sai-12/Problem-Solving/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/mani-sai-12/Problem-Solving/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/mani-sai-12/Problem-Solving/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/mani-sai-12/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/mani-sai-12/Problem-Solving/tree/master/0392-is-subsequence) |
@@ -215,4 +218,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mani-sai-12/Problem-Solving/tree/master/0014-longest-common-prefix) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mani-sai-12/Problem-Solving/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mani-sai-12/Problem-Solving/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
