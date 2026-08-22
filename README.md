@@ -39,6 +39,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mani-sai-12/Problem-Solving/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/mani-sai-12/Problem-Solving/tree/master/3731-find-missing-elements) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/mani-sai-12/Problem-Solving/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/mani-sai-12/Problem-Solving/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -235,4 +236,12 @@
 |  |
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/1408-string-matching-in-an-array) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/mani-sai-12/Problem-Solving/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/mani-sai-12/Problem-Solving/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
