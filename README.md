@@ -110,6 +110,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3516-find-closest-person](https://github.com/mani-sai-12/Problem-Solving/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/mani-sai-12/Problem-Solving/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mani-sai-12/Problem-Solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/mani-sai-12/Problem-Solving/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/mani-sai-12/Problem-Solving/tree/master/3945-digit-frequency-score) |
