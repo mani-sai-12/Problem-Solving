@@ -6,9 +6,8 @@ class Solution:
             S+=digit
             P*=digit
             n//=10
-        if Num%(S+P)==0:
-            return True
-        else:
+        if Num%(S+P)!=0:
             return False
+        return True
     
         
