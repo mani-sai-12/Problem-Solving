@@ -42,6 +42,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mani-sai-12/Problem-Solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/mani-sai-12/Problem-Solving/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/3875-construct-uniform-parity-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mani-sai-12/Problem-Solving/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/mani-sai-12/Problem-Solving/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -122,6 +123,7 @@
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mani-sai-12/Problem-Solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/mani-sai-12/Problem-Solving/tree/master/3783-mirror-distance-of-an-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/3875-construct-uniform-parity-array-i) |
 | [3945-digit-frequency-score](https://github.com/mani-sai-12/Problem-Solving/tree/master/3945-digit-frequency-score) |
 ## Prefix Sum
 |  |
