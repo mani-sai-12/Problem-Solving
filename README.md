@@ -14,6 +14,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/mani-sai-12/Problem-Solving/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mani-sai-12/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
+| [0724-find-pivot-index](https://github.com/mani-sai-12/Problem-Solving/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/mani-sai-12/Problem-Solving/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/0896-monotonic-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mani-sai-12/Problem-Solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -132,6 +133,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/mani-sai-12/Problem-Solving/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/1480-running-sum-of-1d-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/mani-sai-12/Problem-Solving/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mani-sai-12/Problem-Solving/tree/master/3432-count-partitions-with-even-sum-difference) |
