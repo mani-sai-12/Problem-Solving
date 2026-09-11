@@ -42,6 +42,7 @@
 | [3427-sum-of-variable-length-subarrays](https://github.com/mani-sai-12/Problem-Solving/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mani-sai-12/Problem-Solving/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mani-sai-12/Problem-Solving/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/mani-sai-12/Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mani-sai-12/Problem-Solving/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mani-sai-12/Problem-Solving/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -69,6 +70,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mani-sai-12/Problem-Solving/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/mani-sai-12/Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mani-sai-12/Problem-Solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/mani-sai-12/Problem-Solving/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/mani-sai-12/Problem-Solving/tree/master/3945-digit-frequency-score) |
@@ -167,6 +169,7 @@
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/mani-sai-12/Problem-Solving/tree/master/0342-power-of-four) |
+| [3483-unique-3-digit-even-numbers](https://github.com/mani-sai-12/Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 ## Counting
 |  |
 | ------- |
@@ -247,6 +250,7 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/mani-sai-12/Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 ## Trie
 |  |
 | ------- |
