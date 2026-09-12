@@ -6,4 +6,4 @@ class Solution:
                 d[ch]+=1
             else:
                 d[ch]=1
-        return len(d)==26
+        return (True if len(d)==26 else False)
