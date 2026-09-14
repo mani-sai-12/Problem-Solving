@@ -112,6 +112,7 @@
 | [0371-sum-of-two-integers](https://github.com/mani-sai-12/Problem-Solving/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/mani-sai-12/Problem-Solving/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mani-sai-12/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/mani-sai-12/Problem-Solving/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/mani-sai-12/Problem-Solving/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mani-sai-12/Problem-Solving/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mani-sai-12/Problem-Solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -280,4 +281,8 @@
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/mani-sai-12/Problem-Solving/tree/master/1672-richest-customer-wealth) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mani-sai-12/Problem-Solving/tree/master/3898-find-the-degree-of-each-vertex) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/mani-sai-12/Problem-Solving/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
