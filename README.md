@@ -39,6 +39,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mani-sai-12/Problem-Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/mani-sai-12/Problem-Solving/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mani-sai-12/Problem-Solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3024-type-of-triangle](https://github.com/mani-sai-12/Problem-Solving/tree/master/3024-type-of-triangle) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mani-sai-12/Problem-Solving/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/mani-sai-12/Problem-Solving/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -130,6 +131,7 @@
 | [2652-sum-multiples](https://github.com/mani-sai-12/Problem-Solving/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/mani-sai-12/Problem-Solving/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3024-type-of-triangle](https://github.com/mani-sai-12/Problem-Solving/tree/master/3024-type-of-triangle) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mani-sai-12/Problem-Solving/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mani-sai-12/Problem-Solving/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -208,6 +210,7 @@
 | [2733-neither-minimum-nor-maximum](https://github.com/mani-sai-12/Problem-Solving/tree/master/2733-neither-minimum-nor-maximum) |
 | [2974-minimum-number-game](https://github.com/mani-sai-12/Problem-Solving/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mani-sai-12/Problem-Solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3024-type-of-triangle](https://github.com/mani-sai-12/Problem-Solving/tree/master/3024-type-of-triangle) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/mani-sai-12/Problem-Solving/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/mani-sai-12/Problem-Solving/tree/master/3731-find-missing-elements) |
@@ -290,4 +293,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/mani-sai-12/Problem-Solving/tree/master/0836-rectangle-overlap) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/mani-sai-12/Problem-Solving/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
