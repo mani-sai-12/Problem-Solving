@@ -105,6 +105,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/mani-sai-12/Problem-Solving/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/mani-sai-12/Problem-Solving/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
 |  |
@@ -196,6 +197,7 @@
 | [1929-concatenation-of-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mani-sai-12/Problem-Solving/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2974-minimum-number-game](https://github.com/mani-sai-12/Problem-Solving/tree/master/2974-minimum-number-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/mani-sai-12/Problem-Solving/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/mani-sai-12/Problem-Solving/tree/master/3925-concatenate-array-with-reverse) |
 ## Sorting
 |  |
