@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/mani-sai-12/Problem-Solving/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/mani-sai-12/Problem-Solving/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/mani-sai-12/Problem-Solving/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/mani-sai-12/Problem-Solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mani-sai-12/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/mani-sai-12/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mani-sai-12/Problem-Solving/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/mani-sai-12/Problem-Solving/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/mani-sai-12/Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/mani-sai-12/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mani-sai-12/Problem-Solving/tree/master/0242-valid-anagram) |
@@ -185,6 +187,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mani-sai-12/Problem-Solving/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/mani-sai-12/Problem-Solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mani-sai-12/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/mani-sai-12/Problem-Solving/tree/master/1512-number-of-good-pairs) |
@@ -203,6 +206,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mani-sai-12/Problem-Solving/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/mani-sai-12/Problem-Solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mani-sai-12/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mani-sai-12/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/mani-sai-12/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
@@ -300,4 +304,12 @@
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/mani-sai-12/Problem-Solving/tree/master/3024-type-of-triangle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mani-sai-12/Problem-Solving/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mani-sai-12/Problem-Solving/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
