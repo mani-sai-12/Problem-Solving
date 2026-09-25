@@ -27,6 +27,7 @@
 | [1512-number-of-good-pairs](https://github.com/mani-sai-12/Problem-Solving/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/mani-sai-12/Problem-Solving/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/mani-sai-12/Problem-Solving/tree/master/1672-richest-customer-wealth) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mani-sai-12/Problem-Solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -127,6 +128,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/mani-sai-12/Problem-Solving/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/mani-sai-12/Problem-Solving/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/mani-sai-12/Problem-Solving/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2469-convert-the-temperature](https://github.com/mani-sai-12/Problem-Solving/tree/master/2469-convert-the-temperature) |
