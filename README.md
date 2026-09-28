@@ -97,6 +97,7 @@
 | [0412-fizz-buzz](https://github.com/mani-sai-12/Problem-Solving/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/mani-sai-12/Problem-Solving/tree/master/0709-to-lower-case) |
 | [1408-string-matching-in-an-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/1408-string-matching-in-an-array) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mani-sai-12/Problem-Solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mani-sai-12/Problem-Solving/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/mani-sai-12/Problem-Solving/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mani-sai-12/Problem-Solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -314,4 +315,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mani-sai-12/Problem-Solving/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mani-sai-12/Problem-Solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mani-sai-12/Problem-Solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
