@@ -73,6 +73,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/mani-sai-12/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/mani-sai-12/Problem-Solving/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/mani-sai-12/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/mani-sai-12/Problem-Solving/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mani-sai-12/Problem-Solving/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mani-sai-12/Problem-Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -98,6 +99,7 @@
 | [0389-find-the-difference](https://github.com/mani-sai-12/Problem-Solving/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/mani-sai-12/Problem-Solving/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/mani-sai-12/Problem-Solving/tree/master/0412-fizz-buzz) |
+| [0451-sort-characters-by-frequency](https://github.com/mani-sai-12/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0709-to-lower-case](https://github.com/mani-sai-12/Problem-Solving/tree/master/0709-to-lower-case) |
 | [1408-string-matching-in-an-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/1408-string-matching-in-an-array) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mani-sai-12/Problem-Solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -174,6 +176,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/mani-sai-12/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/mani-sai-12/Problem-Solving/tree/master/2974-minimum-number-game) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
@@ -198,6 +201,7 @@
 | [0169-majority-element](https://github.com/mani-sai-12/Problem-Solving/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/mani-sai-12/Problem-Solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mani-sai-12/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/mani-sai-12/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/mani-sai-12/Problem-Solving/tree/master/1512-number-of-good-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mani-sai-12/Problem-Solving/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Simulation
@@ -220,6 +224,7 @@
 | [0268-missing-number](https://github.com/mani-sai-12/Problem-Solving/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mani-sai-12/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/mani-sai-12/Problem-Solving/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/mani-sai-12/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mani-sai-12/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -332,4 +337,8 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/mani-sai-12/Problem-Solving/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mani-sai-12/Problem-Solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/mani-sai-12/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
