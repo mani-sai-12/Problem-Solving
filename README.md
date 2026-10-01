@@ -11,6 +11,7 @@
 | [0075-sort-colors](https://github.com/mani-sai-12/Problem-Solving/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/mani-sai-12/Problem-Solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mani-sai-12/Problem-Solving/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/mani-sai-12/Problem-Solving/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mani-sai-12/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/mani-sai-12/Problem-Solving/tree/master/0485-max-consecutive-ones) |
@@ -66,6 +67,7 @@
 | [0205-isomorphic-strings](https://github.com/mani-sai-12/Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/mani-sai-12/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mani-sai-12/Problem-Solving/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/mani-sai-12/Problem-Solving/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mani-sai-12/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/mani-sai-12/Problem-Solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mani-sai-12/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
@@ -118,6 +120,7 @@
 | [0009-palindrome-number](https://github.com/mani-sai-12/Problem-Solving/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/mani-sai-12/Problem-Solving/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/mani-sai-12/Problem-Solving/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/mani-sai-12/Problem-Solving/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/mani-sai-12/Problem-Solving/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/mani-sai-12/Problem-Solving/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/mani-sai-12/Problem-Solving/tree/master/0412-fizz-buzz) |
@@ -177,6 +180,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/mani-sai-12/Problem-Solving/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/mani-sai-12/Problem-Solving/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/mani-sai-12/Problem-Solving/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/mani-sai-12/Problem-Solving/tree/master/0389-find-the-difference) |
@@ -213,6 +217,7 @@
 | [0169-majority-element](https://github.com/mani-sai-12/Problem-Solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mani-sai-12/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mani-sai-12/Problem-Solving/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/mani-sai-12/Problem-Solving/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mani-sai-12/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/mani-sai-12/Problem-Solving/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mani-sai-12/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
@@ -256,6 +261,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mani-sai-12/Problem-Solving/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/mani-sai-12/Problem-Solving/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mani-sai-12/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mani-sai-12/Problem-Solving/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting Sort
