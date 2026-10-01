@@ -86,6 +86,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mani-sai-12/Problem-Solving/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/mani-sai-12/Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/mani-sai-12/Problem-Solving/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/mani-sai-12/Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/mani-sai-12/Problem-Solving/tree/master/0242-valid-anagram) |
@@ -318,9 +319,11 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mani-sai-12/Problem-Solving/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mani-sai-12/Problem-Solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mani-sai-12/Problem-Solving/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mani-sai-12/Problem-Solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
