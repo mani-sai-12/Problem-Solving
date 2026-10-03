@@ -63,6 +63,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mani-sai-12/Problem-Solving/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mani-sai-12/Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/mani-sai-12/Problem-Solving/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/mani-sai-12/Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/mani-sai-12/Problem-Solving/tree/master/0217-contains-duplicate) |
@@ -88,6 +89,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mani-sai-12/Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/mani-sai-12/Problem-Solving/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/mani-sai-12/Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/mani-sai-12/Problem-Solving/tree/master/0058-length-of-last-word) |
@@ -171,6 +173,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mani-sai-12/Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mani-sai-12/Problem-Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Heap (Priority Queue)
