@@ -29,6 +29,7 @@
 | [1550-three-consecutive-odds](https://github.com/mani-sai-12/Problem-Solving/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/mani-sai-12/Problem-Solving/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1920-build-array-from-permutation](https://github.com/mani-sai-12/Problem-Solving/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mani-sai-12/Problem-Solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -213,6 +214,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/mani-sai-12/Problem-Solving/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/mani-sai-12/Problem-Solving/tree/master/0412-fizz-buzz) |
+| [1920-build-array-from-permutation](https://github.com/mani-sai-12/Problem-Solving/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mani-sai-12/Problem-Solving/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2974-minimum-number-game](https://github.com/mani-sai-12/Problem-Solving/tree/master/2974-minimum-number-game) |
