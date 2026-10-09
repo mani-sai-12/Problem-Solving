@@ -56,6 +56,7 @@
 | [3668-restore-finishing-order](https://github.com/mani-sai-12/Problem-Solving/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mani-sai-12/Problem-Solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/mani-sai-12/Problem-Solving/tree/master/3731-find-missing-elements) |
+| [3838-weighted-word-mapping](https://github.com/mani-sai-12/Problem-Solving/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/3875-construct-uniform-parity-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mani-sai-12/Problem-Solving/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/3903-smallest-stable-index-i) |
@@ -122,6 +123,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/mani-sai-12/Problem-Solving/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3838-weighted-word-mapping](https://github.com/mani-sai-12/Problem-Solving/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
 | ------- |
@@ -221,6 +223,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mani-sai-12/Problem-Solving/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2974-minimum-number-game](https://github.com/mani-sai-12/Problem-Solving/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/mani-sai-12/Problem-Solving/tree/master/3498-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/mani-sai-12/Problem-Solving/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/mani-sai-12/Problem-Solving/tree/master/3925-concatenate-array-with-reverse) |
 ## Sorting
 |  |
