@@ -78,6 +78,7 @@
 | [0389-find-the-difference](https://github.com/mani-sai-12/Problem-Solving/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/mani-sai-12/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
+| [0771-jewels-and-stones](https://github.com/mani-sai-12/Problem-Solving/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/mani-sai-12/Problem-Solving/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mani-sai-12/Problem-Solving/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mani-sai-12/Problem-Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -108,6 +109,7 @@
 | [0412-fizz-buzz](https://github.com/mani-sai-12/Problem-Solving/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/mani-sai-12/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0709-to-lower-case](https://github.com/mani-sai-12/Problem-Solving/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/mani-sai-12/Problem-Solving/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/mani-sai-12/Problem-Solving/tree/master/1108-defanging-an-ip-address) |
 | [1408-string-matching-in-an-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/1408-string-matching-in-an-array) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mani-sai-12/Problem-Solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
