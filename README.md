@@ -54,6 +54,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mani-sai-12/Problem-Solving/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3668-restore-finishing-order](https://github.com/mani-sai-12/Problem-Solving/tree/master/3668-restore-finishing-order) |
+| [3701-compute-alternating-sum](https://github.com/mani-sai-12/Problem-Solving/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mani-sai-12/Problem-Solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/mani-sai-12/Problem-Solving/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/mani-sai-12/Problem-Solving/tree/master/3838-weighted-word-mapping) |
@@ -228,6 +229,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mani-sai-12/Problem-Solving/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2974-minimum-number-game](https://github.com/mani-sai-12/Problem-Solving/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/mani-sai-12/Problem-Solving/tree/master/3498-reverse-degree-of-a-string) |
+| [3701-compute-alternating-sum](https://github.com/mani-sai-12/Problem-Solving/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/mani-sai-12/Problem-Solving/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/mani-sai-12/Problem-Solving/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/mani-sai-12/Problem-Solving/tree/master/3925-concatenate-array-with-reverse) |
