@@ -34,6 +34,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mani-sai-12/Problem-Solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mani-sai-12/Problem-Solving/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mani-sai-12/Problem-Solving/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mani-sai-12/Problem-Solving/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -250,6 +251,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/mani-sai-12/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/mani-sai-12/Problem-Solving/tree/master/2733-neither-minimum-nor-maximum) |
 | [2974-minimum-number-game](https://github.com/mani-sai-12/Problem-Solving/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mani-sai-12/Problem-Solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -291,6 +293,7 @@
 | [0035-search-insert-position](https://github.com/mani-sai-12/Problem-Solving/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/mani-sai-12/Problem-Solving/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mani-sai-12/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mani-sai-12/Problem-Solving/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting Sort
 |  |
