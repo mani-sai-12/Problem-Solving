@@ -16,6 +16,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/mani-sai-12/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/mani-sai-12/Problem-Solving/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mani-sai-12/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/mani-sai-12/Problem-Solving/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/mani-sai-12/Problem-Solving/tree/master/0877-stone-game) |
@@ -82,6 +83,7 @@
 | [0389-find-the-difference](https://github.com/mani-sai-12/Problem-Solving/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mani-sai-12/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/mani-sai-12/Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/mani-sai-12/Problem-Solving/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/mani-sai-12/Problem-Solving/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mani-sai-12/Problem-Solving/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -360,6 +362,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mani-sai-12/Problem-Solving/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mani-sai-12/Problem-Solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -382,4 +385,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mani-sai-12/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
