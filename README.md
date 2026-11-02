@@ -130,6 +130,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mani-sai-12/Problem-Solving/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mani-sai-12/Problem-Solving/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/mani-sai-12/Problem-Solving/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2490-circular-sentence](https://github.com/mani-sai-12/Problem-Solving/tree/master/2490-circular-sentence) |
 | [2678-number-of-senior-citizens](https://github.com/mani-sai-12/Problem-Solving/tree/master/2678-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/mani-sai-12/Problem-Solving/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mani-sai-12/Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
